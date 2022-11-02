@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="lab08-engine-1.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lab08-engine/target/lab08-engine-1.0-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

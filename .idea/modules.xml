@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/lab08-cli/src/lab08-cli.iml" filepath="$PROJECT_DIR$/lab08-cli/src/lab08-cli.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab08-cli/lab08-cli1.iml" filepath="$PROJECT_DIR$/lab08-cli/lab08-cli1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab08-engine/lab08-engine.iml" filepath="$PROJECT_DIR$/lab08-engine/lab08-engine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab08-gui/lab08-gui.iml" filepath="$PROJECT_DIR$/lab08-gui/lab08-gui.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/pwo_lab08.iml" filepath="$PROJECT_DIR$/.idea/pwo_lab08.iml" />
+    </modules>
+  </component>
+</project>
